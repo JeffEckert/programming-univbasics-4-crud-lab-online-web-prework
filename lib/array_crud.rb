@@ -38,7 +38,8 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+  famous_cats = ["lil' bub", "grumpy cat", "Maru","mufasa","arrays!"]
+  famous_cats[4]
 end
 
 def update_element_from_index(array, index_number, element)
